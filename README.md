@@ -4,7 +4,7 @@ I'm a Student Developer building intelligent and impactful tools in **AI, Data, 
 
 Currently focused on:
 
-- **Scidea** — A community for science, adn THE platform to share your ideas. A modern UI with upvotes, bookmarks, profiles, and dynamic tabs.  
+- **Scidea** — A community for Science, and THE platform to share your ideas. A modern UI with upvotes, bookmarks, profiles, and dynamic tabs.  
 - **FireRiskAI** — Predictive wildfire heatmap and hourly spread simulator for Uttarakhand using 10+ years of MODIS data and geospatial ML.  
 - **Splitz** — Smart bill-splitting mobile app that extracts prices from receipts using OCR and divides them among friends instantly.  
 
