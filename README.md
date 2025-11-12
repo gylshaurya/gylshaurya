@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya
 
-I'm a Student at IIT Roorkee, I love buikding things and have developed multiple applications in web, android, Blockchain, AI & Data.
+I'm a Student at IIT Roorkee, I love building things and have developed multiple applications in web, android, Blockchain, AI & Data.
 
 Currently focused on:
 
