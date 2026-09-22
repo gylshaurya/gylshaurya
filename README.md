@@ -1,29 +1,42 @@
 # Hi, I'm Shaurya
 
-I'm a student at Indian Institute Of Technology Roorkee who loves to build things. I am currently learning to build Agentic AI Systems. In the past I have done Blockchain Development & Integration, I am also experienced in Full Stack Development. I am fluent in JavaScript and Python. I have also built Android apps in the past and have also worked on embedded systems.
+I'm a student at the **Indian Institute of Technology Roorkee** who enjoys building things.
 
-Some of my recent projects include:
+I'm currently exploring **Agentic AI Systems** and learning how to build systems that can reason, use tools, and execute multi step tasks. Previously, I've worked on **blockchain development, full stack applications, and embedded systems**.
 
-- **DeadHand** - A dead man's switch where nobody holds the key. Documents sealed to a future drand beacon round, released by inaction.
-- **Nullius** - A verifying read path for Ethereum: Merkle proofs instead of provider votes, censorship measurement, and anonymous membership in zero knowledge.
-- **Proof Of Fix** - A dApp that identifies problems, helps citizens vote on which problems matter most, and fund their solutions in a transparent way using blockchain. The project combines Public Goods governance and DeFi concepts. Public goods are handled through community voting, and DeFi is used through an escrow-based funding system that releases money only when work is approved.
-- **Scidea** - A community for Science & Research enthusiasts, and THE platform to share your ideas.
-- **Helion** - A 2D Solar System Simulator with a custom Physics Engine in which users can create, change, and observe their own solar systems.
-- **Splitz** - A Smart Bill-Splitting mobile app that extracts prices from receipts and divides them among friends based on the portion they ate, also adjusting tax instantly.
-- **Baddy** - A physical training robot connected with an android app (both developed by me) for badminton enthusiasts...I am one too:)...It is capable of serving shuttles at 9 specific points throughout the court in sequence set by the user or can also be randomized.
+I primarily work with **JavaScript, Solidity and Python**, with experience building web applications, decentralized applications, smart contracts, Android applications, and hardware-software systems.
+
+## Some of my recent projects
+
+- **DeadHand** - A dead man's switch that uses drand beacons for time locked document release. Documents are encrypted and sealed against a future drand round and become recoverable when the specified beacon is published if the owner has not intervened.
+
+- **Nullius** - A trust minimized Ethereum read system that verifies blockchain state using Merkle proofs rather than relying solely on provider responses. It also measures RPC censorship and supports anonymous membership verification using zero knowledge proofs.
+
+- **Proof Of Fix** - A blockchain based platform for identifying, prioritizing, and funding solutions to public problems. Citizens can vote on which problems should be addressed, while an escrow system holds funding and releases it when the completed work is approved.
+
+- **Scidea** - A community platform for sharing and discussing scientific ideas, research, and projects. Users can publish ideas, organize them with tags, discuss them through comments, and interact with other members of the research community.
+
+- **Helion** - A 2D solar system simulator built with a custom physics engine. Users can create and modify celestial bodies and experiment with different initial conditions to observe gravitational interactions.
+
+- **Baddy** - A badminton training robot paired with an Android application. The robot serves shuttles to nine predefined positions on the court using user defined sequences or randomized patterns.
+
+- **Splitz** - A smart bill splitting mobile application that extracts items and prices from receipts and divides the bill among multiple people based on what each person consumed, while automatically accounting for taxes and other bill level charges.
 
 <br>
 
 ## Technical Skills
 
-| Category         | Technologies                                                 |
-| ---------------- | ------------------------------------------------------------ |
-| **Languages**    | JavaScript, Solidity, Python                 |
-| **Libraries**    | Ethers.js, React, NodeJS, ExpressJS,                    |
-|**Web3**         | Smart Contract Development, Web Integration                |                                           
-|**Systems**      | Arduino, ESP32, Hardware-Software Integration                |
-|**Tools**        | Git, VS Code, Android Studio, Render, Vercel, Supabase, Neon |
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, Python, Solidity |
+| **Web3 / Blockchain** | Solidity, Ethers.js, Ethereum, Smart Contracts, Hardhat, Foundry, Web3 Integration |
+| **Frontend** | React, Next.js, HTML, CSS |
+| **Backend** | Node.js, Express.js, Django, REST APIs |
+| **Databases** | PostgreSQL, Supabase, SQLite |
+| **Systems & Hardware** | Arduino, ESP32, Hardware-Software Integration |
+| **Developer Tools** | Git, GitHub, VS Code, Android Studio |
+| **Deployment & Cloud** | Vercel, Render, Docker |
 
 <br>
 
-## Think, Build, Learn.
+## Think. Build. Learn.
